@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @pravinneyy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hey there! 👋
+I am [Pravin](https://www.linkedin.com/in/pravinneyy/), currenty pursuing B.Tech ECE at [SRM KTR](https://www.srmist.edu.in/) from '2024-2028'.
+---
+## Contact 📲
 
-<!---
-pravinneyy/pravinneyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Want to get in touch?
+
+<div align="left">
+    <a href="mailto:pravinleein@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/pravinneyy/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"></a>
+    <a href="https://github.com/pravinneyy"><img alt="github" src="https://img.shields.io/badge/Github-Contact-000000?style=for-the-badge"></a>
+</div>
+
+---
